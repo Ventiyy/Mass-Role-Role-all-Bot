@@ -1,4 +1,4 @@
-Hier ist die übersetzte und vereinfachte Version der README für deinen Mass Role Bot:
+
 
 # Mass Role Bot
 
@@ -78,3 +78,4 @@ https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=26
 * Only users with Administrator permissions can use this command.
 
 ---
+
